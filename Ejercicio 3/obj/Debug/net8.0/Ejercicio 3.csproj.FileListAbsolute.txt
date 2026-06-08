@@ -1,0 +1,15 @@
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.exe
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.deps.json
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.runtimeconfig.json
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.dll
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\bin\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.AssemblyInfo.cs
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.sourcelink.json
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.dll
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\refint\Ejercicio 3.dll
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.pdb
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\Ejercicio 3.genruntimeconfig.cache
+C:\Users\HardByte Soluciones\Desktop\Taller de Diseño de Sofware 2_2026\Trabajo_Practico2026\TP6-TalleresdeDesarrollode Software-2026\Ejercicio 3\obj\Debug\net8.0\ref\Ejercicio 3.dll
